@@ -1,5 +1,8 @@
 ### Hi there 👋
-
+- 📫 How to reach me: ... shehab.osama.eg@gmail.com or through Whatsapp 01202991861
+- 🌱 I’m currently learning a new technology
+- 🔭 I’m currently working on ShehabAssitant lib to upgrade new version
+- ⚡ Fun fact : The original name for the search engine Google was Backrub. It was renamed Google after the googol, which is the number one followed by 100 zeros.
 <!--
 **shehabosama/shehabosama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
