@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/shehab_0sama" target="blank"><img src="https://img.shields.io/twitter/follow/shehab_0sama?logo=twitter&style=for-the-badge" alt="shehab_0sama" /></a> </p>
 
-- 🔭 I’m currently working on **karam**
+- 🔭 I’m currently working on **Shehab assistant**
 
 - 🌱 I’m currently learning **Advanced topics in Android dvelopment , spring frame work , advanced topics in react native**
 
