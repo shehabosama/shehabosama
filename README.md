@@ -10,7 +10,7 @@
 <!-- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Hi.gif" width="29px" style="max-width: 100%;"> -->
 ### Hey devs 
 👨🏼‍💻
-Brief about me, I'm an Android developer in both languages [Java and Kotlin] , I have 3 years experience of working on a variety of projects.
+Brief about me, I'm an Android developer in both languages [Java and Kotlin] , I have 5 years experience of working on a variety of projects.
 
 I have a great ambition to continue developing my skills and aspire to work in a collaborative environment. I work on all aspects of the development lifecycle.
 
