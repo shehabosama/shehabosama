@@ -9,15 +9,14 @@
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> More about me
 <!-- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Hi.gif" width="29px" style="max-width: 100%;"> -->
 ### Hey devs 
-👨🏼‍💻I'm Dev
-Android Developer Kotlin & Java
-Brief about me, I'm an Android dev in both languages [Java and Kotlin] , I have 3 years experience of working on a variety of projects .
+👨🏼‍💻
+Brief about me, I'm an Android developer in both languages [Java and Kotlin] , I have 3 years experience of working on a variety of projects.
 
 I have a great ambition to continue developing my skills and aspire to work in a collaborative environment. I work on all aspects of the development lifecycle.
 
-I have knowledge of MVI, MVVM and MVC principles, My work includes building user-focused, innovative, keep user security and performance UI, and developing clean code with teamwork.
+I have knowledge of MVI, MVVM, MVC and VIPER desing architecture, My work includes building user-focused, innovative, keep user data secure and make the app at best UI performance, and developing clean code with teamwork.
 
-I have experience in Rest API, Retrofit, Room Database, RX java , databinding, online payment, E-commerce App, Firebase, Google Play Services, Google Admob, Butterknife-Library, Service, Broadcast Receiver , I have experience in dagger Hilt and kotlin coroutines, and power to use GitHub to work with a team.
+I have experience in Rest API, Retrofit, Room Database, RX java , databinding, online payment, E-commerce App, Firebase, Google Play Services, Google Admob, Butterknife-Library, Service, Broadcast Receiver , I have experience in dagger Hilt and koin and kotlin coroutines, and power to use GitHub to work with a team.
 
 
 I enjoy building great software and helping others do the same.
